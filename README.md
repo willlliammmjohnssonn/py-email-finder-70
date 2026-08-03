@@ -6,3 +6,5 @@ Extract email addresses from text blocks using Regex in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `extractor.py`
+
+*Initialized by willlliammmjohnssonn workspace automation.*
